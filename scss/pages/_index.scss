@@ -1,0 +1,58 @@
+.banner{
+  padding-top: 160px;
+  .name{
+    text-align: left;
+  }
+  .mephoto{
+    text-align: center;
+  }
+  .resume{
+    text-align: right;
+  }
+}
+.intro{
+  background-color: #EFEFEF;
+  .introContent{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 48px 0;
+    p{
+      width: 636px;
+    }
+  }
+}
+.experience{
+  padding: 40px 0 160px 0;
+  .info{
+    margin-top: 40px;
+    width: 636px;
+    .timeBlock{
+      margin-top: 16px;
+    }
+  }
+  .me{
+    ul{
+      padding-top: 8px;
+      li{
+        margin-top: 8px;
+      }
+    }
+  }
+  .awards{
+    ul{
+      padding-top: 4px;
+      li{
+        margin-top: 12px;
+      }
+    }
+  }
+}
+.footer{
+  background-color: black;
+  padding: 64px 0;
+  display: flex;
+  justify-content: center;
+  .community{
+    margin: 0 20px;
+  }
+}

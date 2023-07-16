@@ -93,11 +93,6 @@ table {
   color: #949494;
 }
 
-.container {
-  max-width: 1296px;
-  margin: 0 auto;
-}
-
 .banner {
   padding-top: 160px;
 }
@@ -154,4 +149,9 @@ table {
 }
 .footer .community {
   margin: 0 20px;
+}
+
+.container {
+  max-width: 1296px;
+  margin: 0 auto;
 }/*# sourceMappingURL=all.css.map */
